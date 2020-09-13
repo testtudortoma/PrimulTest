@@ -4,3 +4,4 @@ Al doilea edit
 Am facut edit-uri
 Am vazut cum functioneaza history
 Am creat un branch nou
+Acum am facut un fork de pe alt cont 
