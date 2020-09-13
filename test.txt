@@ -1,3 +1,7 @@
-Asta e primul me test
+
+Asta e primul me test si deja am trecut la testul doi 
 Acum am facut un edit
 Al doilea edit
+Am facut edit-uri
+Am vazut cum functioneaza history
+Am creat un branch nou
